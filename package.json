@@ -1,6 +1,10 @@
 {
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "react-modal": "^3.16.1"
-  }
+  },
+  "license": "MIT"
 }
