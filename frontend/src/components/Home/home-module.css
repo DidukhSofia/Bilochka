@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url("../../fonts/Raleway-Regular.ttf");
+}
+.home-bg {
+    width: 50%;
+}
